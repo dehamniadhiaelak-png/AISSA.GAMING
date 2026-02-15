@@ -1,0 +1,8 @@
+{
+  "name": "TechPulse - Pro Tech Blog & App Hub",
+  "description": "A sophisticated technical blog and application directory platform featuring AI-powered reviews, SEO dashboards, and safe download management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
